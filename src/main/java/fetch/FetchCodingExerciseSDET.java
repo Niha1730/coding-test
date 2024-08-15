@@ -21,7 +21,7 @@ public class FetchCodingExerciseSDET {
     }
 
     public void navigateToPage() {
-        driver.get("https://www.example.com");
+        driver.get("http://sdetchallenge.fetch.com");
     }
 
     public void clickFakeBarButton(String fakeBar) {
